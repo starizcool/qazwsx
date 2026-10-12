@@ -1,5 +1,6 @@
 # qazwsx
 ws
+<img width="300" height="150" alt="DogeUB" src="https://github.com/user-attachments/assets/094b3e98-94a8-44e2-9790-616f87d490d6" />
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" style="display:block">
 
 <title>Classroom</title>
